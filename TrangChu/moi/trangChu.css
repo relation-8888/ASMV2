@@ -1,0 +1,263 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bao {
+    width: 1280px;
+    margin: 0 auto;
+    height: 4000px;
+
+}
+nav {
+    background-color: #ffffff;
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+    justify-items: center;
+    margin: 0px;
+    padding: 0px;
+    height: 100px;
+ 
+}
+nav .dauTrai {
+    display: flex;
+}
+nav .dauTrai h2 {
+    padding-top: 45px;
+    padding-left: 5px;
+}
+nav .dauTrai img {
+    width: 95px;
+    padding-top: 24px;
+}
+nav ul {
+    display: flex;
+    
+}
+nav ul li {
+    margin-top: 35px;
+    display: inline;
+    list-style: none;
+    margin-right: 30px;
+    
+    height: 95px;
+    padding-top: 13px;
+    width: 95px;
+    padding-left: 10px;
+    border-radius: 15px;
+}
+nav ul li a {
+    color: rgb(19, 18, 18);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 19px;
+    height: 55px;
+}
+nav ul li a:hover {
+    width: auto;
+   border-radius: 5px;
+    background-color: #047fff;
+}
+.than {
+
+    margin-top: 35px;
+    text-align: center;
+    height: 500px;
+    margin-bottom: 215px;
+}
+.than h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #17234d;
+}
+.than h2 {
+    color: #047fff;
+    font-size: 35px;
+}
+.ud h1{
+    display: block;
+    margin-top: 25px;
+    text-align: center;
+}
+.ud hr {
+    height: 3px;
+    background-color: #1ae9ae;
+    padding: 2px;
+    width: 686px;
+    margin-left: 304px;
+    margin-top: 15px
+}
+.thanDuoi {
+    background-color: #e4f1ff;
+    display: flex;
+    height: 200px;
+    margin-top: -101px;
+    height: 690px;
+    padding-bottom: 462px;
+    
+}
+.thanDuoi .than1 {
+    
+    background-color: #ffffff;
+   
+    margin: 10px 10px;
+    padding: 20px 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 95px;
+    margin-right: -80px;  
+}
+.than1 p {
+    font-size: 18px;
+    font-weight: bold;
+}
+.t1 {
+    flex-basis: 20%;
+    margin-top: 300px;
+    margin-left: 17px;
+   
+}
+.dvduoi {
+    display: flex;
+    height: 500px;
+    margin: 5px;
+    padding: 5px;
+}
+.dvtrai {
+    display: flex;
+    flex-basis: 45%;
+    background-color: #ffffff;
+    padding: 5px;
+    margin: 5px;
+}
+.dvtrai p {
+    margin-bottom: 60px;
+    margin-top: 120px;
+    width: 50%;
+    text-align: center;
+    margin-left: 128px;
+}
+.dvduoi button {
+    height: 45px;
+    width: 150px;
+    background-color: #047fff;
+    margin-left: 182px;
+    margin-top: -53px;
+    border-radius: 20px;
+}
+.dvphai {
+    background-color:#ffffff;
+    display: flex;
+}
+.anh1 {
+    display: flex;
+    flex-basis: 50%;
+    background-color: #ffffff;
+    margin: 30px;
+    text-align: center;
+    height: 250px;
+    margin-right: 98pxx;
+    margin-left: 160px;
+    
+}
+.anhcon {
+    margin: 15px;
+}
+.anh2 {
+    display: flex;
+    flex-basis: 50%;
+    background-color: #ffffff;
+    margin: 30px;
+    text-align: center;
+    height: 250px;
+    margin-right: 98pxx;
+    margin-left: 162px;
+    margin-top: 231px;
+    margin-left: -383px;
+    padding-left: -87px;
+    padding-right: -13px;
+    margin-left: -382px;
+    
+}
+.anhcon2 {
+    margin-left: 45px;
+}
+.anhcon p {
+    font-size: 18px;
+}
+.anhcon2 p {
+    font-size: 18px;
+}
+.ud p {
+   font-size: 20px;
+    margin-left: 420px;
+    margin-top: 110px;
+    font-weight: bold;
+}
+.mpv {
+    display: flex;
+    
+}
+.mpv .me {
+   margin-top: 155px;
+    display: flex;
+    flex-basis: 30%;
+    background-color: #ffffff;
+    margin-left: 100px;
+}
+.me .m2 {
+    margin-top: 75px;
+}
+.mpv hr {
+    width: 3px;
+    background-color: #047fff;
+    margin-left: 92px;
+    margin-bottom: 28px;
+}
+.cuoi {
+    display: flex;
+    height: 420px;
+    background-color: #17234d;
+    margin-top: 50px;
+   
+}
+.cuoi .cuoi1 {
+    
+    display: flex;
+    flex-basis: 20%;
+    background-color: #17234d;
+    margin-top: 290px;
+    margin: 350px 10px;
+    padding-left: -12px;
+    margin-right: 127px;
+    margin-left: -75px;
+
+}
+.cuoi .header img {
+   margin-left: 243px;
+    margin-top: 47px;
+
+}
+.cuoi h2 {
+    color: #ffffff;
+    margin-left: 34px;
+    margin-top: -51px;
+}
+.c1 p {
+    color: #ffffff;
+    
+}
+.c1 span {
+    margin-left: 15px;
+}
+.c1 {
+    margin-top: -160px;
+}
+
+
+
+
+
+
+

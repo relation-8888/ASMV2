@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bao {
+    width: 1280px;
+    margin: 0 auto;
+    height: 4000px;
+
+}
+nav {
+    background-color: #ffffff;
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+    justify-items: center;
+    margin: 0px;
+    padding: 0px;
+    height: 100px;
+ 
+}
+nav .dauTrai {
+    display: flex;
+}
+nav .dauTrai h2 {
+    padding-top: 45px;
+    padding-left: 5px;
+}
+nav .dauTrai img {
+    width: 95px;
+    padding-top: 24px;
+}
+nav ul {
+    display: flex;
+    
+}
+nav ul li {
+    margin-top: 35px;
+    display: inline;
+    list-style: none;
+    margin-right: 30px;
+    
+    height: 95px;
+    padding-top: 13px;
+    width: 95px;
+    padding-left: 10px;
+    border-radius: 15px;
+}
+nav ul li a {
+    color: rgb(19, 18, 18);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 19px;
+    height: 55px;
+}
+nav ul li a:hover {
+    width: auto;
+   border-radius: 5px;
+    background-color: #047fff;
+}
+.duoi img {
+    width: 1314px;
+}
+.cuoi {
+   
+    display: flex;
+    height: 420px;
+    background-color: #17234d;
+    margin-top: 50px;
+    width: 1317px;
+   
+}
+.cuoi .cuoi1 {
+    
+    display: flex;
+    flex-basis: 20%;
+    background-color: #17234d;
+    margin-top: 290px;
+    margin: 350px 10px;
+    padding-left: -12px;
+    margin-right: 127px;
+    margin-left: -75px;
+
+}
+.cuoi .header img {
+   margin-left: 243px;
+    margin-top: 47px;
+
+}
+.cuoi h2 {
+    color: #ffffff;
+    margin-left: 34px;
+    margin-top: -51px;
+}
+.c1 p {
+    color: #ffffff;
+    
+}
+.c1 span {
+    margin-left: 15px;
+}
+.c1 {
+    margin-top: -160px;
+}
